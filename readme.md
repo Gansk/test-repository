@@ -1,4 +1,4 @@
-# REST API
+# Stores REST API
 
 ## Installation
 
